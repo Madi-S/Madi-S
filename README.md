@@ -10,19 +10,19 @@ I am specializing in writing web scrapers/crawlers on python. I am fascinated by
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 
-- 🌱 I’m currently learning <code><img height="20" src="https://www.python.org/static/opengraph-icon-200x200.png"></code>
+- 🌱 I’m currently learning python
 
 - 👨‍💻 I have vast experience in:
 
-• Selenium <img height="20" src="https://selenium-python.readthedocs.io/_static/logo.png" >
-• Pyppeteer
-• Asyncio + Aiohttp
-• MySQL + PostgreSQL
-• Grequests
-• Scrapy
-• Redis
-• Telegram bots
-
+• Selenium <img height="20" src="https://selenium-python.readthedocs.io/_static/logo.png" > <br />
+• Pyppeteer <br />
+• Asyncio + Aiohttp <br />
+• MySQL + PostgreSQL <br />
+• Grequests <br />
+• Scrapy <br />
+• Redis <br />
+• Telegram bots <br />
+ 
 - Fun facts:
 
 I play saxophone and play tennis 
