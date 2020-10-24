@@ -23,12 +23,12 @@ I am specializing in writing web scrapers/crawlers on python. I am fascinated by
 • Telegram API <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"> <br />
  
  <br />
- <br />
  
 - 👀 Fun facts:
 
-• I play saxophone <br />
-• I played tennis professionally <br />
+• I play saxophone 🎷 <br />
+• I played tennis professionally 🎾 <br />
+• I participate in Amazing Spaghetti Machine Contest every year 🏅 <br />
 
 
 
