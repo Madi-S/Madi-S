@@ -21,13 +21,13 @@ I am specializing in writing web scrapers/crawlers on python. I am fascinated by
 • Scrapy <img height="30" src="https://www.cryt.ie/wp-content/uploads/2020/03/scrapy.png"><br />
 • Redis <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg"> <br />
 • Telegram API <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"> <br />
- 
+ ><br /><br />
 - 👀 Fun facts:
 
 • I play saxophone <br />
 • I played tennis professionally <br />
 
-<br /><br /><br />
+<br /
 
 <img title="📖 My status" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=Madi-S&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
 
