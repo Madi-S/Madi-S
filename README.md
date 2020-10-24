@@ -18,7 +18,7 @@ I am specializing in writing web scrapers/crawlers on python. I am fascinated by
 • Pyppeteer <img height="30" src="https://miro.medium.com/max/1600/1*9BG6g9a_2wGwAJVs5aAofg.png" ><br />
 • Asyncio + Aiohttp <img height="30" src="https://docs.aiohttp.org/en/stable/_static/aiohttp-icon-128x128.png"><br />
 • MySQL + PostgreSQL <img height="30" src="https://img1.pnghut.com/5/20/13/z8Ef2bGSzE/mysql-cluster-text-computer-servers-area-logo.jpg"><br />
-• Scrapy <img height="30" src="https://www.cryt.ie/wp-content/uploads/2020/03/scrapy.png"><br />
+• Scrapy <img height="40" src="https://www.cryt.ie/wp-content/uploads/2020/03/scrapy.png"><br />
 • Redis <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg"> <br />
 • Telegram API <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"> <br />
  
