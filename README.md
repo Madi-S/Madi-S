@@ -10,9 +10,8 @@ I am specializing in writing web scrapers/crawlers on python. I am fascinated by
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
 
-- 🐍 I’m currently learning python
+- 🐍 I’m currently learning python and have vast experience in 👨‍💻:
 
-- 👨‍💻 I have vast experience in:
 
 • Selenium <img height="30" src="https://selenium-python.readthedocs.io/_static/logo.png" > <br />
 • Pyppeteer <img height="30" src="https://miro.medium.com/max/1600/1*9BG6g9a_2wGwAJVs5aAofg.png" ><br />
@@ -21,9 +20,9 @@ I am specializing in writing web scrapers/crawlers on python. I am fascinated by
 • Scrapy <img height="30" src="https://www.cryt.ie/wp-content/uploads/2020/03/scrapy.png"><br />
 • Redis <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Redis_Logo.svg"> <br />
 • Telegram API <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png"> <br />
- >
  
- 
+ <br />
+ <br />
  
 - 👀 Fun facts:
 
