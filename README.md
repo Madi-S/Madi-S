@@ -28,7 +28,7 @@ I am specializing in writing web scrapers/crawlers on python. I am fascinated by
 
 • I play saxophone 🎷 <br />
 • I played tennis professionally 🎾 <br />
-• I participate in Amazing Spaghetti Machine Contest every year 🏅 <br />
+• I participate in Amazing Spaghetti Machine Contest every year 🏅 <br /><br />
 
 
 
