@@ -34,3 +34,5 @@ I am specializing in writing web scrapers/crawlers on python. I am fascinated by
 
 <img title="📖 My status" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=Madi-S&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
 
+<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/untitaker/untitaker/master/github.gif">
+
