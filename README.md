@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:khovansky99@gmail.com)
 
 
-My name is **Shaiken Madi**. I live in Kazakhstan/Kokshetau
+My name is **Shaiken Madi**. I live in Kazakhstan, Kokshetau
 
 I am specializing in writing web scrapers/crawlers on python. I am fascinated by backend development, asynchronous code, web automation, data extraction, machine learning, and also have a huge stake in Arduino.
 
