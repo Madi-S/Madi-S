@@ -5,7 +5,7 @@
 
 My name is **Shaiken Madi**. I live in Kazakhstan, Kokshetau
 
-I am specializing in writing web scrapers/crawlers on python. I am fascinated by backend development, asynchronous coding, web automation, data extraction, machine learning, and also have a huge stake in Arduino.
+I am specializing in writing web scrapers/crawlers on python. I am fascinated by full-stack development, telegram bots, asynchronous coding, web automation, data extraction, machine learning, and also have a huge stake in Arduino.
 
 Happy Coding!
 
