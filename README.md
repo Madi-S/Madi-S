@@ -13,4 +13,4 @@ Happy Coding!
 
 ![Madi's GitHub stats](https://github-readme-stats.vercel.app/api?username=madi-s&theme=tokyonight&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madi-s&langs_count=7)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madi-s&langs_count=7&theme=tokyonight)
