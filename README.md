@@ -6,6 +6,12 @@ My name is **Shaiken Madi**. I live in Kazakhstan, Nur-Sultan.
 
 I am passionate about web development, web automation and data analysis. Feel free to message me about interesting projects.
 
+My stack:
+
+  - Backend: FastAPI, Flask, NestJS Django, Aiohttp
+  - Frontend: React
+  - Mobile: React Native, Kivy
+
 Happy Coding!
 
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
