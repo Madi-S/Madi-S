@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maaadishaiken@gmail.com)
 
-My name is **Shaiken Madi**. I live in Kazakhstan, Nur-Sultan.
+My name is **Madi Shaiken**. I live in Kazakhstan, Astana.
 
 I am passionate about web development, web automation and data analysis. Feel free to message me about interesting projects.
 
