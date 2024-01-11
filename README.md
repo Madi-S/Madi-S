@@ -8,8 +8,8 @@ I am passionate about web development, web automation and data analysis. Feel fr
 
 My stack:
 
-  - Backend: FastAPI, Flask, NestJS Django, Aiohttp
-  - Frontend: React
+  - Backend: FastAPI, Flask, NestJS, Django, Aiohttp
+  - Frontend: React, Vanilla JS
   - Mobile: React Native, Kivy
 
 Happy Coding!
