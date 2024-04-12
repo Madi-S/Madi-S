@@ -32,7 +32,7 @@
 <div id="stats" align="center">
 <h2>Stats</h2>
 <a href="https://www.codewars.com/users/floppy_">Codewars<br /><img src="https://www.codewars.com/users/floppy_/badges/large"></a>
-<a href="http://www.github.com/Madi-S">GitHub<br /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Madi-S&stroke=fffaaa&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=fffaaa&currStreakLabel=0891b2&sideNums=fffaaa&sideLabels=fffaaa&dates=fffaaa&hide_border=true"/></a>
+<a href="http://www.github.com/Madi-S">GitHub<br /><br /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Madi-S&stroke=fffaaa&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=fffaaa&currStreakLabel=0891b2&sideNums=fffaaa&sideLabels=fffaaa&dates=fffaaa&hide_border=true"/></a>
 </div>
 
 <div id="footer" align="center">
