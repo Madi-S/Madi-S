@@ -1,21 +1,41 @@
-<img style="-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/untitaker/untitaker/master/github.gif">
+<div id="header" align="center">
+  <img src="./welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile"/>
+  <br/>
+</div>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:maaadishaiken@gmail.com)
+<div id="info" align="center">
+<h2>My name is Madi and i like web</h2>
+<div align="left">
 
-My name is **Madi Shaiken**. I live in Kazakhstan, Astana.
+-   🌍  I'm based in Kazakhstan, Astana
 
-I am passionate about web development, web automation and data analysis. Feel free to message me about interesting projects.
+-   ✉️  You can [email me](mailto:maaadishaiken@gmail.com) or [telegram me](https://t.me/MrMadi)
 
-My stack:
+-   🧠  I'm currently learning Go and some of backend-dev trends
 
-  - Backend: FastAPI, Flask, NestJS, Django, Aiohttp
-  - Frontend: React, Vanilla JS
-  - Mobile: React Native, Kivy
+-   🤝  I'm open to collaborating on interesting projects and volunteering for something helpful
+</div>
+</div>
 
-Happy Coding!
+<div id="stack" align="center">
+<h2>Stack</h2>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript"/></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++"/></a>
 
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API"/></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask"/></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django"/></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"/></a>
 
-![Madi's GitHub stats](https://github-readme-stats.vercel.app/api?username=madi-s&theme=tokyonight&show_icons=true)
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"/></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madi-s&langs_count=5&theme=tokyonight)
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux"/></a>
+
+</div>
+
+<div id="stats" align="center">
+<h2>Stats</h2>
+<a href="https://www.codewars.com/users/floppy_">Codewars<br /><img src="https://www.codewars.com/users/floppy_/badges/large"></a>
+<a href="http://www.github.com/Madi-S">GitHub<br /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Madi-S&stroke=fffaaa&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=fffaaa&currStreakLabel=0891b2&sideNums=fffaaa&sideLabels=fffaaa&dates=fffaaa&hide_border=true"/></a>
+</div>
+
+<div id="footer" align="center">
+    <h2>Have a <s>good</s> awesome day!</h2>
+    <img src="./smile.gif" alt="Smiley" align="center">
+</div>
